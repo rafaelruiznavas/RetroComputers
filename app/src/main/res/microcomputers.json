@@ -1,0 +1,22 @@
+{
+  "computers": [
+    {
+      "title": "Sinclair ZX80",
+      "description": "El Sinclair ZX80 es un ordenador doméstico que llego al mercado en 1980 por Science of Cambridge Ltd. (posteriormente conocida como Sinclair Research). Fue el primer ordenador disponible en el Reino Unido por menos de 100 libras. Se podia comprar en forma de kit por 79,95L y ya totalmente montado por 99.95. El ZX80 fue muy popular y hubo lista de espera de varios meses para cualquiera de las versiones de la maquina.",
+      "image": "s_zx80",
+      "developer": "Spectrum",
+      "releaseDate": 1980,
+      "cpu": "Z80 @ 3.25Mhz",
+      "memory": "1 KB"
+    },
+    {
+      "title": "Sinclair ZX81",
+      "description": "El ZX81 es un ordenador personal producido por Sinclair Research y fabricado en Escocia por Timex Corporation. Se lanzó en el Reino Unido en Marzo de 1981 como el sucesor del ZX80 y fue diseñado como un ordenador de bajo coste para el publico general. Tubo bastante exito y se llegaron a vender pas de 1.5 millones de unidades.",
+      "image": "s_zx81",
+      "developer": "Spectrum",
+      "releaseDate": 1981,
+      "cpu": "Z80 @ 3.25Mhz",
+      "memory": "1 KB"
+    }
+  ]
+}

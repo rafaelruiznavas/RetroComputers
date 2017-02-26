@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.ruiznavas.retrocomputers.activities.MainActivity">
+
+    <ImageView
+        android:id="@+id/spectrum"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="100dp"
+        android:background="@android:color/black"
+        android:src="@drawable/logospectrum" />
+
+
+    <ImageView
+        android:id="@+id/commodore"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_weight="1"
+        android:src="@drawable/logocommodore" />
+
+    <ImageView
+        android:id="@+id/amstrad"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_weight="1"
+        android:background="@color/colorBackgroundAmstrad"
+        android:src="@drawable/logoamstrad" />
+
+    <ImageView
+        android:id="@+id/msx"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_weight="1"
+        android:background="@android:color/black"
+        android:src="@drawable/logomsx" />
+
+
+</LinearLayout>

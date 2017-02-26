@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RetroComputers</string>
+    <string name="title_spectrum">Spectrum</string>
+    <string name="title_commodore">Commodore</string>
+    <string name="title_amstrad">Amstrad</string>
+    <string name="title_msx">MSX</string>
+    <string name="search_hint">Computer</string>
+</resources>
